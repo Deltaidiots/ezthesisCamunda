@@ -10,7 +10,7 @@ Camunda will be running on http://localhost:8080
 **Username**: admin
 **Password**: admin
 
-##Starting Process
+## Starting Process
 Once logged in User can start a process via camunda tasklist.
 Main process is Fullthesis just start it will be shown in cockpit and respective tasks will be located in tasklist.
 For ease of process all of tasks are allocated to one user in order to study the full process
